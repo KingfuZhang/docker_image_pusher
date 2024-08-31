@@ -1,2 +1,2 @@
 calciumion/new-api
-soulter/astrbot:latest
+soulter/astrbot
