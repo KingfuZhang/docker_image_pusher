@@ -1,2 +1,2 @@
-calciumion/new-api
+calciumion/new-api:latest
 soulter/astrbot
