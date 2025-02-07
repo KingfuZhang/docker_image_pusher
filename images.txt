@@ -1,2 +1,2 @@
 calciumion/new-api:latest
-soulter/astrbot
+rockchin/langbot:latest
