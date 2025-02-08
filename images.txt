@@ -1,2 +1,4 @@
 calciumion/new-api:latest
 rockchin/langbot:latest
+redis:latest
+programzmh/chatnio
