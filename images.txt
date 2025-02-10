@@ -2,4 +2,4 @@ calciumion/new-api:latest
 rockchin/langbot:latest
 redis:latest
 programzmh/chatnio
-one-api:latest
+songquanpeng/one-api:latest
