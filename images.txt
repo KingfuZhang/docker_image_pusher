@@ -3,3 +3,4 @@ rockchin/langbot:latest
 redis:latest
 programzmh/chatnio
 justsong/one-api:latest
+henryxiaoyang/xybotv2:latest
